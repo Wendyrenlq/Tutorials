@@ -108,4 +108,4 @@ run;
 
 #### Images (!+Link Coding) (Can be drag and drop in Typora)
 
-![Shanghai Sunrise](Shanghai%20Sunrise.png "Shanghai Sunrise")
+![Shanghai Sunrise](/Image/Shanghai%20Sunrise.png "Shanghai Sunrise")
