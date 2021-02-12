@@ -38,11 +38,11 @@ ___
 
 #### Table (Ctrl+T)
 
-|      |      |      |
+|   Co1 1   |   Col 2   |   Col 3   |
 | ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+|   Stuff   |   Stuff   |   Stuff   |
+|   Stuff   |   Stuff   |   Stuff   |
+|   Stuff   |   Stuff   |   Stuff   |
 
 
 
